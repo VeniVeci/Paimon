@@ -1,4 +1,12 @@
-# qiqi
+# Paimon
+
+This is a website with the theme of Genshin Impact.
+I want to achieve the following functions：
+1.Map of Character Relations
+2.Display of characteristic topographic map on Tivat continent
+and so on...
+
+If any traveler have any suggestions about this project, please contact me via email (alex.xh.zhang@foxmail.com)
 
 > A Vue.js project
 
@@ -11,20 +19,4 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

@@ -20,3 +20,6 @@ npm install
 npm run dev
 
 ```
+
+Display:
+![图片](https://user-images.githubusercontent.com/34216439/204191112-1cee5aae-83c5-49d3-8ec8-5016f3c754ac.png)
